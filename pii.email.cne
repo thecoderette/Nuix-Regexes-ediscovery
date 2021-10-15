@@ -1,0 +1,4 @@
+{
+"name": "pii.email"
+"regex": "\b[\w-+.]+@+\w+.+[A-z]{3}"
+}

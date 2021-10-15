@@ -1,0 +1,4 @@
+{
+  "name": "pii.cii",
+  "regex": "\b[A-M][\d]{9}\b"
+}
