@@ -1,3 +1,3 @@
 ##########################
 READ ME:
-This regex only works if the addresses are in the same format as in the sample data. 
+This regex only works if the addresses/ssn/etc are in the same format as they appear in the sample data. 
